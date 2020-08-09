@@ -1,5 +1,4 @@
-### Hi there 👋
-## ansh-099
+## Hi there 👋
 Getting Professional Everyday
 
 Github Profile!
