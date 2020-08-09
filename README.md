@@ -1,4 +1,4 @@
 ## Hi there 👋
-Getting Professional Everyday
+Getting Professional Everyday.
 
 Github Profile!
