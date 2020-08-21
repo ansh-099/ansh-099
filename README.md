@@ -3,8 +3,8 @@
 # 👋 Hey there!! Github Profile !
 ### I'm Anshul Singh and welcome to my brief intro..
 * 👨‍💻 I'm a undergraduate majoring in Computer Engineering From NSIT, Delhi
-* 📱 A Native Mobile App Developer
-* ⚡ Deep Learning
+* 📱 A Native Mobile App Developer 
+* ⚡ Deep Learning 
 * 🌐 Want to know me more? Checkout my products [Foodpilu](https://play.google.com/store/apps/details?id=com.foodpilu.app87905) | [ICOS Rentals](https://play.google.com/store/apps/details?id=com.icos.anshulsingh.icosvehicle) 
   
 [![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=ansh-099&count_private=true&show_icons=true)](https://github.com/ansh-099)
