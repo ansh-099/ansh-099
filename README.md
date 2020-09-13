@@ -5,7 +5,7 @@
 * 👨‍💻 I'm a undergraduate majoring in Computer Engineering From NSIT, Delhi
 * 📱 A Native Mobile App Developer 
 * ⚡ Deep Learning 
-* 🌐 Want to know me more? Checkout my products [Foodpilu](https://play.google.com/store/apps/details?id=com.foodpilu.app87905) | [ICOS Rentals](https://play.google.com/store/apps/details?id=com.icos.anshulsingh.icosvehicle) 
+* 🌐 Want to know me more? Checkout my products [Foodpilu](https://apkcombo.com/food-pilu/com.foodpilu.app87905/) | [ICOS Rentals](https://play.google.com/store/apps/details?id=com.icos.anshulsingh.icosvehicle) 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/anshul-singh-55897b155/)](https://www.linkedin.com/in/anshul-singh-55897b155/) 
 
