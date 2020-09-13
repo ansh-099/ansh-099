@@ -6,8 +6,10 @@
 * 📱 A Native Mobile App Developer 
 * ⚡ Deep Learning 
 * 🌐 Want to know me more? Checkout my products [Foodpilu](https://play.google.com/store/apps/details?id=com.foodpilu.app87905) | [ICOS Rentals](https://play.google.com/store/apps/details?id=com.icos.anshulsingh.icosvehicle) 
-  
-[![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=ansh-099&count_private=true&show_icons=true)](https://github.com/ansh-099)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/anshul-singh-55897b155/)](https://www.linkedin.com/in/anshul-singh-55897b155/) 
+
+[![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=ansh-099&count_private=true&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=daf7dc&bg_color=191919)](https://github.com/ansh-099)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-099&layout=compact)](https://github.com/ansh-099)
 
