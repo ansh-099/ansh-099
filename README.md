@@ -2,5 +2,5 @@
 
 # 👋 Hey there!! Github Profile !
 ### I'm Hustler and welcome to my brief intro...
-* 📱 A Native Mobile App Developer 
+* 📱 A Web Developer 
 * ⚡ Deep Learning 
